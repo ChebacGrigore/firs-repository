@@ -10,5 +10,6 @@ public class Main {
         b = b - a;
         a = b + a;
         System.out.print(a); System.out.print("      "); System.out.print(b);
+        System.out.println("String for test git commit N2");
     }
 }
